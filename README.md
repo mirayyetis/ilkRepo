@@ -66,6 +66,7 @@ Kullanımı
 git branch
 
 Aşağıdaki komut  yeni bir dal oluşturur.
+
 git branch [branch name]
 
 git checkout
